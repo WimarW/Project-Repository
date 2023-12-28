@@ -1,5 +1,5 @@
-text = "Sleep"
-shift = 3
+text = input("Text: ")
+shift = int(input("Shift: "))
 cypher = ""
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
